@@ -1,0 +1,7 @@
+D:\#Games and Apps\GITHUB\Objektid\Objektid\obj\Debug\Objektid.csprojResolveAssemblyReference.cache
+D:\#Games and Apps\GITHUB\Objektid\Objektid\obj\Debug\Objektid.csproj.CoreCompileInputs.cache
+D:\#Games and Apps\GITHUB\Objektid\Objektid\bin\Debug\Objektid.exe.config
+D:\#Games and Apps\GITHUB\Objektid\Objektid\bin\Debug\Objektid.exe
+D:\#Games and Apps\GITHUB\Objektid\Objektid\bin\Debug\Objektid.pdb
+D:\#Games and Apps\GITHUB\Objektid\Objektid\obj\Debug\Objektid.exe
+D:\#Games and Apps\GITHUB\Objektid\Objektid\obj\Debug\Objektid.pdb
